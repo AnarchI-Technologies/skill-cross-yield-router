@@ -1,0 +1,17 @@
+{
+  "name": "cross-yield-router",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Read-only CROSS Mainnet yield comparison and allocation router.",
+  "scripts": {
+    "check": "node --check scripts/_json.mjs && node --check scripts/_sibling.mjs && node --check scripts/_yield.mjs && node --check scripts/snapshot.mjs && node --check scripts/compare.mjs && node --check scripts/plan.mjs",
+    "smoke:read": "node scripts/compare.mjs && node scripts/plan.mjs 100 --risk=balanced"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

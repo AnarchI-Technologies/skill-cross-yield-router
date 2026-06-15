@@ -1,0 +1,11 @@
+{
+  "name": "skill-cross-yield-router",
+  "version": "0.1.0",
+  "description": "Read-only CROSS Mainnet yield comparison and allocation router.",
+  "skills": [
+    {
+      "name": "cross-yield-router",
+      "path": "skills/cross-yield-router"
+    }
+  ]
+}
