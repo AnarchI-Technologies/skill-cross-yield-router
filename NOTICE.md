@@ -1,7 +1,9 @@
-# Notice
+﻿# Notice
 
-`cross-yield-router` is an AnarchI Technologies CROSS Mainnet skill released under MIT.
+cross-yield-router is an AnarchI Technologies (TM) CROSS Mainnet skill released under the Apache License, Version 2.0.
 
-It is a read-only allocation recommender. It does not move funds. It composes sibling skill data where available and supports explicit APR overrides when live services do not expose comparable yield values.
+Copyright 2026 AnarchI Technologies.
 
-Brand line: Hardcoding freedom into the systems of tomorrow.
+AnarchI Technologies (TM) and "Hardcoding freedom into the systems of tomorrow" are used as source-identifying marks of AnarchI Technologies. The Apache License, Version 2.0 does not grant trademark rights except as required for reasonable and customary use in describing the origin of the Work and reproducing this NOTICE file.
+
+This project is not an official to-nexus package unless and until the upstream team adopts it. It is published as a free public community skill for CROSS Mainnet agents and operators.
